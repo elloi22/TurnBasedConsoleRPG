@@ -22,6 +22,8 @@
     <ClInclude Include="ActionResult.h" />
     <ClInclude Include="Battle.h" />
     <ClInclude Include="Character.h" />
+    <ClInclude Include="doctest.h" />
+    <ClInclude Include="Drop.h" />
     <ClInclude Include="Enemy.h" />
     <ClInclude Include="Mage.h" />
     <ClInclude Include="Player.h" />
